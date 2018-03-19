@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="fld1" label="Fld1" language="en" table="sn_app10_table2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fld1</element>
+            <help/>
+            <hint/>
+            <label>Fld1</label>
+            <language>en</language>
+            <name>sn_app10_table2</name>
+            <plural>Fld1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 05:41:24</sys_created_on>
+            <sys_id>52c9bdf3733013001c233096fbf6a7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Fld1</sys_name>
+            <sys_package display_value="app10" source="sn_app10">ed6871f3733013001c233096fbf6a79c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="app10">ed6871f3733013001c233096fbf6a79c</sys_scope>
+            <sys_update_name>sys_documentation_sn_app10_table2_fld1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 05:41:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
